@@ -1,2 +1,2 @@
-# bootcamp_project
-data science projects
+## bootcamp_project
+  This was my first Data Science project. 
